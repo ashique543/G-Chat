@@ -1,0 +1,55 @@
+.inbox
+{
+    width: 300px;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 20px;
+    background-color: rgb(181, 181, 181);
+    padding: 15px;
+}
+.display
+{
+    width: auto;
+    height: 350px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    padding: 10px;
+    scrollbar-color: #fffcfc rgb(181, 181, 181);
+    scrollbar-width: thin;
+}
+.display h3
+{
+    text-align: center;
+}
+.display ul
+{
+    border-radius: 30px;
+}
+.display ul li
+{
+    margin: 2px;
+}
+#input
+{
+    margin-top: 25px;
+}
+#input input
+{
+    border-top-left-radius: 35px;
+    border-bottom-left-radius: 35px;
+}
+.button
+{
+    background-color: rgb(60, 33, 233);
+    color: wheat;
+    padding: 5px;
+    border: 0px;
+    border-radius: 35px
+}
+.welcome
+{
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}

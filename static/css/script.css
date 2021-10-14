@@ -1,0 +1,12 @@
+.user_name
+{
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 20px;
+}
+.user_name form
+{
+    margin: 0 auto;
+    margin-top: 50px;
+    width: 400px;
+}
